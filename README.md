@@ -2,5 +2,5 @@
 > have some cool features
 - Play
 - Pause
-- next
+- Next Slide
 - Previous
