@@ -3,3 +3,4 @@
 - Play
 - Pause
 - next
+- Previous
