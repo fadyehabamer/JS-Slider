@@ -2,3 +2,4 @@
 > have some cool features
 - Play
 - Pause
+- next
