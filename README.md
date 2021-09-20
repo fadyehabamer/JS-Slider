@@ -1,6 +1,6 @@
 # Pure JS Slider
 > have some cool features
-- Play
+- Play SlideShow
 - Pause
 - Next Slide
 - Previous Slide
