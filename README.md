@@ -3,4 +3,4 @@
 - Play
 - Pause
 - Next Slide
-- Previous
+- Previous Slide
